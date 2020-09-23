@@ -18,6 +18,6 @@ The bubble chart of the countries shows the number of active cases in the countr
 
 
 
-The <b>racing bar chart</b> of <b>the number of confired cases daily in each country</b> shows the country which is severely affected by Covid-19. &nbsp;
+The racing bar chart of <b>the number of Active cases daily in each country</b> shows the country which is severely affected by Covid-19. &nbsp;
 
 ![](https://github.com/anubhuti2522/Covid-19-World-/blob/master/images/ActiveCases.png)
