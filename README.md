@@ -3,7 +3,7 @@ As Covid-19 is spreading like a fire worldwide. It is a project to analysis the 
 
 <b>Used Tableau to perform calculation for Data Visualization of Covid-19.</b>
 
-For the data Visualization of <b>Day Wise Drift</b> of Covid-19 cases in India.Drag and drop the fields on the specified position to get the visualization. Add "Date" to "pages" to show a drift in each day. The increase in the size of bubble shows the intensity with which the virus is spreading in that country. US has the biggest red spot which shows the severity of virus there. &nbsp;
+For the data Visualization of <b>Day Wise Drift</b> of Covid-19 cases in the world.Drag and drop the fields on the specified position to get the visualization. Add "Date" to "pages" to show a drift in each day. The increase in the size of bubble shows the intensity with which the virus is spreading in that country. US has the biggest red spot which shows the severity of virus there. &nbsp;
 
 ![](https://github.com/anubhuti2522/Covid-19-World-/blob/master/images/covidDrift.png)
 &nbsp;&nbsp;
